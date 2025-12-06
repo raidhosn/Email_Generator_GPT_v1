@@ -1,0 +1,5 @@
+{
+  "name": "RefineMail AI",
+  "description": "An intelligent email assistant that proofreads, translates, and formats your emails using Gemini AI.",
+  "requestFramePermissions": []
+}
